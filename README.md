@@ -3,9 +3,9 @@
 </div>
 
 ## Links
-[Official Repository](https://github.com/CoolElectronics/sh1mmer)
-[Official Website](https://sh1mmer.me/)
-[Raw Shims Download](https://files.ultimatesrv.com/)
+[Official Repository](https://github.com/CoolElectronics/sh1mmer)  
+[Official Website](https://sh1mmer.me/)  
+[Raw Shims Download](https://files.ultimatesrv.com/)  
 [Wax4Web Shim Builder](https://build.ultimatesrv.com/)
 
 ## Credits
