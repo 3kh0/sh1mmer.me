@@ -1,20 +1,12 @@
 <div align="center">
-    <h1>SH1MMER</h1>
+    <h1>SH1MMER (UNOFFICIAL)</h1>
 </div>
 
-Shady Hacking 1nstrument Makes Machine Enrollment Retreat
-
-Website, source tree, and write-up for a ChromeOS enrollment jailbreak
-
-## What is Shimmer?
-
-Shimmer is an exploit found in the ChromeOS shim kernel that utilitzes modified RMA factory shims to gain code execution at recovery.<br>
-
-## How does it work?
-
-RMA shims are a factory tool allowing certain authorization functions to be is signed, but only
-the KERNEL partitions are checked for signatures by the firmware. We can edit the other partitions to our will, as long as the characters contained
-in those edits are equal to the amount of characters in the original.
+## Links
+[Official Repository](https://github.com/CoolElectronics/sh1mmer)  
+[Official Website](https://sh1mmer.me/)  
+[Raw Shims Download](https://files.ultimatesrv.com/)  
+[Wax4Web Shim Builder](https://build.ultimatesrv.com/)
 
 ## Credits
 
