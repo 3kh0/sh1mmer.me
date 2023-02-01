@@ -2,6 +2,10 @@
     <h1>SH1MMER (UNOFFICIAL)</h1>
 </div>
 
+## Please go to the [Official Repository](https://github.com/CoolElectronics/sh1mmer) instead!
+
+If you want more updates for things about me, 3kh0 you can do that here: [discord.gg/3kh0](https://discord.gg/3kh0)
+
 ## Links
 [Official Repository](https://github.com/CoolElectronics/sh1mmer)  
 [Official Website](https://sh1mmer.me/)  
